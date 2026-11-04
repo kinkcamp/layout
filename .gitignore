@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# 大体积二进制样本（EDA 版图 GDS）
+*.gds
+*.gdsii
+*.oas
+
+# 工具/缓存
+.pytest_cache/
+.workbuddy/
+*.log
+
+# 环境变量
+.env
+.env.local

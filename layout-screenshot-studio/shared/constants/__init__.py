@@ -1,0 +1,3 @@
+PARSER_VERSION = "klayout-0.30.12"
+TILE_SCHEMA_VERSION = "tile-v1"
+PNG_SCHEMA_VERSION = "png-v1"
